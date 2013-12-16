@@ -1,8 +1,6 @@
-gdcr13
+Global Day of Code Retreat 2013
 ======
 
-Global Day of Code Retreat 2013
+This was a 45-minute coding session with https://github.com/xorrbit . We were starting the implementation at the point of testing the rules of the game of life.
 
-The code is in branches, named after the person I paired with in each session.
-
-I know, I know, we're supposed to delete the code, but I just didn't wanna do that.
+It was fun, but it was late in the day, and we were tired, so we did not really care to think too hard :)
