@@ -1,7 +1,5 @@
-gdcr13
-======
-
 Global Day of Code Retreat 2013
+======
 
 The code is in branches, named after the person I paired with in each session.
 
